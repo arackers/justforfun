@@ -2,6 +2,8 @@
 
 Helpful tutorial: https://github.com/ktmeaton/DHSI2019-git 
 
+This is a test line
+
 You can use the [editor on GitHub](https://github.com/arackers/justforfun/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
